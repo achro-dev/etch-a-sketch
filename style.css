@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .box {
+    border: 1px solid black; height: 25px; width: 25px"
+  }
+
+  .boxON{
+    background-color: green;
+  }
